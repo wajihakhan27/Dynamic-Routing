@@ -12,15 +12,15 @@ export default function Navbar() {
         <nav>
           <Link href="/" style={{ marginRight: 50, color: "white", fontSize: 20 }}>
             Home page
-          </Link>&nbsp;|&nbsp;&nbsp;
+          </Link>
           <Link href="/about" style={{ marginRight: 50, color: "white", fontSize: 20 }}>
             About us
-          </Link>&nbsp;|&nbsp;&nbsp;
+          </Link>
          <Link href="/country" style={{ marginRight: 50, color: "white", fontSize: 20 }}>
-            Country </Link>&nbsp;|&nbsp;&nbsp;
+            Country </Link>
           <Link href="/contact" style={{ marginRight: 50, color: "white", fontSize: 20 }}>
             Contact us
-          </Link>&nbsp;
+          </Link>
 
         </nav>
       </header>

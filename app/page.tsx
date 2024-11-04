@@ -10,11 +10,11 @@ export default function Homepage() {
       boxSizing: "border-box"
 }}>
 
-      <h1 style={{ textAlign: "center", fontSize: 40, fontWeight: "bold", margin: 10, color: "black",}}>Home Page</h1>
+      <h1 style={{ textAlign: "center", fontSize: 40, fontWeight: "bold", margin: 10, color: "black"}}>Home Page</h1>
 
       <Navbar />
 
-      <p style={{ textAlign: "-webkit-match-parent", margin: 40, color: "black", fontSize: 18, }}>Welcome to our project! The aim to create a user-friendly platform showcasing the world's top beautiful countries using the latest web technologies. </p>
+      <p style={{ textAlign: "-webkit-match-parent", margin: 40, color: "black", fontSize: 18 }}>Welcome to our project! The aim to create a user-friendly platform showcasing the world's top beautiful countries using the latest web technologies. </p>
 
             <h2 style={{fontSize: 18, textDecoration:"underline"}}><b>Key Features of Our Project:</b></h2>
             <ol>
